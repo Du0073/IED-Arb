@@ -3,7 +3,7 @@ APUNTES CURSO 1002
 --------------------------------- Abril 10 del 2024 -------------------------------
 
 MODALIDAD DE CALIFICACIÓN
-- 30% EXAMENES
+- 30% EXAMENE(S)
 - 70% TALLERES
 
 Notas Previas:
@@ -22,6 +22,10 @@ Notas Previas:
 - Escalares ===>>>> Lo veremos en el siguiente capítulo
 
 --------------------------------- Abril 11 del 2024 -------------------------------
+- Longitud de arco
+- Radianes
+
+TALLER 1
 Ejercicio 1: Sistemas de Referencia
 Descripción: Un niño lanza una pelota hacia arriba desde el borde de un acantilado que mide 
 30 metros de altura. Considera el sistema de referencia en el que el punto de lanzamiento 
@@ -31,13 +35,14 @@ Pregunta: ¿Cuál sería la posición de la pelota después de 2 segundos, consi
 lanzada hacia arriba con una velocidad inicial de 10 m/s? Ignora la resistencia del aire.
 
 Ejercicio 2: Trayectorias Curvilínea y Rectilínea
-Descripción: Un automóvil viaja en línea recta a una velocidad constante de 20 m/s por 10 segundos. 
-Luego, gira y sigue un camino circular de radio 50 metros a la misma velocidad durante 15 segundos.
+Descripción: Un automóvil viaja en línea recta a una velocidad constante de 20 m/s por 
+10 segundos. Luego, gira y sigue un camino circular de radio 50 metros a la misma 
+velocidad durante 15 segundos.
 
 Pregunta:
 a) ¿Cuál es la distancia total recorrida por el automóvil?
 b) Describe la trayectoria del automóvil en este viaje.
-
+---------------------------------- QUEDAMOS ACÁ 
 Ejercicio 3: Velocidad (dx/dt)
 Descripción: Un patinador se mueve a lo largo de una pista recta. Su posición, en metros, viene dada 
 por la función x(t) = 5t^2 + 2t, donde t es el tiempo en segundos desde que comenzó a moverse.
