@@ -21,3 +21,37 @@ Notas Previas:
     - Fuerza
 - Escalares ===>>>> Lo veremos en el siguiente capítulo
 
+Ejercicio 1: Sistemas de Referencia
+Descripción: Un niño lanza una pelota hacia arriba desde el borde de un acantilado que mide 
+30 metros de altura. Considera el sistema de referencia en el que el punto de lanzamiento 
+es el origen.
+
+Pregunta: ¿Cuál sería la posición de la pelota después de 2 segundos, considerando que fue 
+lanzada hacia arriba con una velocidad inicial de 10 m/s? Ignora la resistencia del aire.
+
+Ejercicio 2: Trayectorias Curvilínea y Rectilínea
+Descripción: Un automóvil viaja en línea recta a una velocidad constante de 20 m/s por 10 segundos. 
+Luego, gira y sigue un camino circular de radio 50 metros a la misma velocidad durante 15 segundos.
+
+Pregunta:
+a) ¿Cuál es la distancia total recorrida por el automóvil?
+b) Describe la trayectoria del automóvil en este viaje.
+
+Ejercicio 3: Velocidad (dx/dt)
+Descripción: Un patinador se mueve a lo largo de una pista recta. Su posición, en metros, viene dada 
+por la función x(t) = 5t^2 + 2t, donde t es el tiempo en segundos desde que comenzó a moverse.
+
+Pregunta: Calcula la velocidad del patinador a los 3 segundos de haber comenzado su movimiento.
+
+Ejercicio 4: Sistema de Medidas Internacional
+Descripción: Una pista de carreras ovalada tiene rectas de 400 metros y semicírculos para las 
+curvas con un radio de 100 metros cada uno.
+
+Pregunta: Calcula la longitud total de la pista en metros y luego conviértela a kilómetros.
+
+Ejercicio 5: Sistema de Medidas Inglés
+Descripción: Un avión viaja a una velocidad de 500 millas por hora durante 3 horas.
+
+Pregunta:
+a) ¿Qué distancia recorre el avión en millas?
+b) Convierte esa distancia a kilómetros (utiliza el factor de conversión 1 milla = 1.60934 km).
